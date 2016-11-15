@@ -1,5 +1,5 @@
 fortune:
-  fallbackFortune: Bad, really really bad!
+  fallbackFortune: hello everybody.  fixed.
 
 eureka:
   instance:
